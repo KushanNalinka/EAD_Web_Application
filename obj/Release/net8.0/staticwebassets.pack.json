@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\wwwroot\\images\\Trophy_5c8f22ad-e497-48fa-8c62-a86f6e744951.png",
+      "PackagePath": "staticwebassets\\images\\Trophy_5c8f22ad-e497-48fa-8c62-a86f6e744951.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\wwwroot\\images\\images_b1e9c662-8a56-4922-8143-0975b9efd90f.jpeg",
+      "PackagePath": "staticwebassets\\images\\images_b1e9c662-8a56-4922-8143-0975b9efd90f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\wwwroot\\images\\string_165d2fdf-f802-4397-b052-5d5a55fccf56.jpeg",
+      "PackagePath": "staticwebassets\\images\\string_165d2fdf-f802-4397-b052-5d5a55fccf56.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\wwwroot\\images\\tablet_baf1eed2-8d4d-4394-a587-e47048a3dc13.jpg",
+      "PackagePath": "staticwebassets\\images\\tablet_baf1eed2-8d4d-4394-a587-e47048a3dc13.jpg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.EADWebApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.EADWebApplication.props",
+      "PackagePath": "build\\EADWebApplication.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EADWebApplication.props",
+      "PackagePath": "buildMultiTargeting\\EADWebApplication.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.EADWebApplication.props",
+      "PackagePath": "buildTransitive\\EADWebApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

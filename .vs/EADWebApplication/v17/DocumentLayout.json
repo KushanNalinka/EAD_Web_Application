@@ -1,0 +1,733 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\services\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:services\\vendorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\services\\shortnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:services\\shortnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\services\\productnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:services\\productnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:services\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:services\\mongodbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\services\\cancelnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:services\\cancelnotificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\vendorcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\vendorcreatemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\shortnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\shortnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\productwithvendordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\productwithvendordetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\productnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\productnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\productfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\productfiltermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\cancelnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\cancelnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\models\\activateaccountrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:models\\activateaccountrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:helpers\\jwthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\controllers\\shortnotificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:controllers\\shortnotificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\controllers\\productnotificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:controllers\\productnotificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\controllers\\cancelnotificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:controllers\\cancelnotificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|c:\\users\\asus\\source\\repos\\eadwebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{604ED9CB-9958-4270-894F-369BA3AAE1BD}|EADWebApplication.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VendorService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\VendorService.cs",
+              "RelativeDocumentMoniker": "Services\\VendorService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\VendorService.cs",
+              "RelativeToolTip": "Services\\VendorService.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAmwKcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:09:41.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwB8BAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:22:15.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\ProductNotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductNotificationService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\ProductNotificationService.cs",
+              "RelativeToolTip": "Services\\ProductNotificationService.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:57:22.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T11:39:08.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShortNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\ShortNotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\ShortNotificationService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\ShortNotificationService.cs",
+              "RelativeToolTip": "Services\\ShortNotificationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:42:40.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:55:37.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T02:33:54.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\NotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\NotificationService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\NotificationService.cs",
+              "RelativeToolTip": "Services\\NotificationService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:41:42.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MongoDBService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\MongoDBService.cs",
+              "RelativeDocumentMoniker": "Services\\MongoDBService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\MongoDBService.cs",
+              "RelativeToolTip": "Services\\MongoDBService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:42:15.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Services\\CategoryService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T13:00:22.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VendorCreateModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\VendorCreateModel.cs",
+              "RelativeDocumentMoniker": "Models\\VendorCreateModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\VendorCreateModel.cs",
+              "RelativeToolTip": "Models\\VendorCreateModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T15:28:30.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "Models\\Vendor.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\Vendor.cs",
+              "RelativeToolTip": "Models\\Vendor.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA/wCAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:58:19.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T08:54:34.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\RegisterModel.cs",
+              "RelativeToolTip": "Models\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T16:42:25.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductWithVendorDetails.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\ProductWithVendorDetails.cs",
+              "RelativeDocumentMoniker": "Models\\ProductWithVendorDetails.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\ProductWithVendorDetails.cs",
+              "RelativeToolTip": "Models\\ProductWithVendorDetails.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wA4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:57:54.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\ProductModel.cs",
+              "RelativeToolTip": "Models\\ProductModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:57:41.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CancelNotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\CancelNotificationService.cs",
+              "RelativeDocumentMoniker": "Services\\CancelNotificationService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Services\\CancelNotificationService.cs",
+              "RelativeToolTip": "Services\\CancelNotificationService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:18:21.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ProductFilterModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\ProductFilterModel.cs",
+              "RelativeDocumentMoniker": "Models\\ProductFilterModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\ProductFilterModel.cs",
+              "RelativeToolTip": "Models\\ProductFilterModel.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:57:38.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\OrderModel.cs",
+              "RelativeToolTip": "Models\\OrderModel.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:57:21.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ShortNotification.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\ShortNotification.cs",
+              "RelativeDocumentMoniker": "Models\\ShortNotification.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\ShortNotification.cs",
+              "RelativeToolTip": "Models\\ShortNotification.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T06:49:17.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\Notification.cs",
+              "RelativeDocumentMoniker": "Models\\Notification.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\Notification.cs",
+              "RelativeToolTip": "Models\\Notification.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:57:11.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "Models\\JwtSettings.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:57:04.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:57:01.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductNotification.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\ProductNotification.cs",
+              "RelativeDocumentMoniker": "Models\\ProductNotification.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\ProductNotification.cs",
+              "RelativeToolTip": "Models\\ProductNotification.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA7wBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T09:56:53.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CancelNotification.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\CancelNotification.cs",
+              "RelativeDocumentMoniker": "Models\\CancelNotification.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\CancelNotification.cs",
+              "RelativeToolTip": "Models\\CancelNotification.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:56:52.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ActivateAccountRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\ActivateAccountRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ActivateAccountRequest.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\ActivateAccountRequest.cs",
+              "RelativeToolTip": "Models\\ActivateAccountRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:56:50.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T16:42:48.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwBAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:59:03.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "JwtHelper.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Helpers\\JwtHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\JwtHelper.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Helpers\\JwtHelper.cs",
+              "RelativeToolTip": "Helpers\\JwtHelper.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:56:47.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAA1wDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:21:00.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MongoDBSettings.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\MongoDBSettings.cs",
+              "RelativeDocumentMoniker": "Models\\MongoDBSettings.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Models\\MongoDBSettings.cs",
+              "RelativeToolTip": "Models\\MongoDBSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T13:38:15.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:56:41.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAC0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:12:03.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAHABAAAAAAAAAAAQwHMBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T09:09:49.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAMwAAAAAAAAAAAAiwNAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T16:29:32.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductNotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\ProductNotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductNotificationController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\ProductNotificationController.cs",
+              "RelativeToolTip": "Controllers\\ProductNotificationController.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAEIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:40:33.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ShortNotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\ShortNotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShortNotificationController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\ShortNotificationController.cs",
+              "RelativeToolTip": "Controllers\\ShortNotificationController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:16:22.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "VendorController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\VendorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VendorController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\VendorController.cs",
+              "RelativeToolTip": "Controllers\\VendorController.cs",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAmwFAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T09:36:29.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T12:55:03.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AQIAALEAAAAAAAAAAAAIwLkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T05:23:33.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-08T03:12:06.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "CancelNotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\CancelNotificationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CancelNotificationController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\EADWebApplication\\Controllers\\CancelNotificationController.cs",
+              "RelativeToolTip": "Controllers\\CancelNotificationController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T06:11:29.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
